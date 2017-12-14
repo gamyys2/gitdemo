@@ -9,3 +9,5 @@ world
 master 500
 
 master 600
+
+master 800
