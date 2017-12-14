@@ -7,3 +7,5 @@ world
 300
 
 master 500
+
+master 600
